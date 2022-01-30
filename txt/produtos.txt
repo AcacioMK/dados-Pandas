@@ -1,0 +1,10 @@
+0001 TV 2500.00
+0002 Notebook 3000.00
+0003 Celular 2000.00
+0004 Teclado 150.00
+0005 Mouse 50.00
+0006 Cadeira 250.00
+0007 Mesa 150.00
+0008 Monitor 250.00
+0009 caixa-de-som 50.00
+0010 fone 35.00
