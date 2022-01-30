@@ -1,0 +1,2 @@
+Com este código, você criará um arquivo xlsx separado por pastas referente à cada dia de vendas.
+Cada pasta irá conter o relatório com código, nome, valor unitário, quantidade de vendas e o valor total vendido por produto.
